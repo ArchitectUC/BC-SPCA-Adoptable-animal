@@ -1,0 +1,100 @@
+Pet,Name,Sex,Age,Breed,Location,Province
+Dog,Big Daddy,Male,10 months,Pit bull,Vancouver, B.C. 
+Dog,Sven,Male,1 year,Mastiff,Vancouver, B.C. 
+Dog,Stormy,Male,5 years,Domestic Medium Hair,Vancouver, B.C. 
+Dog,Sasha,Female,4 years,Doberman,Vancouver, B.C. 
+Dog,Lillian,Female,2 years,Sheepdog,Vancouver, B.C. 
+Dog,Felix,Male,1 year,Ragdoll,Burnaby, B.C. 
+Dog,Bear,Male,3 years,Australian Shepherd/ Border Collie,Burnaby, B.C. 
+Dog,Casper,Male,3 years,Husky/Jindo,Burnaby, B.C. 
+Dog,Sophia,Female,2 years,American Terrier,Burnaby, B.C. 
+Dog,Dorothy ,Female,2 years,American Terrier,Burnaby, B.C. 
+Dog,Wooley,Male,6 years,Husky,Burnaby, B.C. 
+Dog,Leif,Male,11 months,Husky,Burnaby, B.C. 
+Dog,Lucy,Female,1 year,German Shepherd,Richmond, B.C. 
+Dog,Pluto,Male,6 years,"Dachshund, Short-haired",Richmond, B.C. 
+Dog,Grace,Female,4 years,Pit Bull Terrier,Richmond, B.C. 
+Dog,Stanley,Male,2 years,Maremma Sheepdog,Richmond, B.C. 
+Dog,Dusty,Male,9 years,German Shepherd,Richmond, B.C. 
+Dog,Mick,Male,2 years,Doberman,Richmond, B.C. 
+Dog,Twix,Male,3 months,Labrador Retriever,West Vancouver, B.C.
+Dog,Goomba,Male,2 years,Husky,West Vancouver, B.C.
+Dog,Nathan,Male,2 years,Labrador Retriever,Nanaimo, B.C.
+Dog,Naomi,Female,1 year,Mastiff / German Shepherd,Nanaimo, B.C.
+Dog,Tigger,Male,1 year,Pit Bull Terrier,Nanaimo, B.C.
+Dog,Yeepers,Female,8 years,Shiba Inu ,Nanaimo, B.C.
+Dog,Evie,Female,6 years,Caucasian Shepherd,Victoria, B.C.
+Dog,Alexandria,Female,3 months,German Shepherd,Victoria, B.C.
+Dog,Willow,Female,5 years,Boxer,Victoria, B.C.
+Dog,Suzie,Female,9 years,Chihuahua,Victoria, B.C.
+Dog,Lucy,Male,3 years,Pit Bull Terrier,Victoria, B.C.
+Dog,Lucio,Female,2 years,Labrador Retriever,Victoria, B.C.
+Cat,Lillian,Female,2 years,Domestic Short Hair,Vancouver, B.C.
+Cat,Stormy,Male,9 years,Domestic Medium Hair,Vancouver, B.C. 
+Cat,Berry,Female,4 years,Domestic Short Hair,Vancouver, B.C.
+Cat,Bubba,Male,2 years,Domestic Short Hair,Vancouver, B.C. 
+Cat,Felix,Male,1 year,Ragdoll,Burnaby, B.C. 
+Cat,Luna,Female,16 years,Domestic Short Hair,Burnaby, B.C. 
+Cat,Babie,Female,3 years,Domestic Short Hair,Richmond, B.C. 
+Cat,Kasey,Female,3 years,Domestic Short Hair,Richmond, B.C. 
+Cat,Buttons ,Female,3 years,Domestic Short Hair,Richmond, B.C. 
+Cat,Juniper,Female,1 year,Domestic Short Hair,West Vancouver, B.C.
+Cat,Sage,Female,1 year,Domestic Short Hair,West Vancouver, B.C. 
+Cat,Holly,Female,2 years,Domestic Short Hair,Coquitlam, B.C.
+Cat,Honey,Female,3 years,Domestic Short Hair,Coquitlam, B.C.
+Cat,Whalen,Male,5 months,Domestic Medium Hair,Coquitlam, B.C. 
+Cat,Poe,Female,5 years,Domestic Short Hair,Surrey, B.C. 
+Cat,Pancake,Male,10 years,Domestic Short Hair,Nanaimo, B.C.
+Cat,Piper,Female,6 years,Domestic Short Hair,Nanaimo, B.C.
+Cat,Squirrel,Male,4 months,Domestic Short Hair,Nanaimo, B.C.
+Cat,Sloth,Female,4 months,Domestic Short Hair,Nanaimo, B.C.
+Cat,Ally,Female,8 years,Domestic Short Hair,Nanaimo, B.C.
+Cat,Koala,Female,6 months,Domestic Short Hair,Nanaimo, B.C.
+Cat,Kisses,Male,1 year,Domestic Short Hair,Nanaimo, B.C.
+Cat,Harley,Female,6 years,Domestic Short Hair,Nanaimo, B.C.
+Cat,Myrtle,Female,11 years,Domestic Long Hair,Nanaimo, B.C.
+Cat,Misty,Female,11 years,Domestic Short Hair,Nanaimo, B.C.
+Cat,Smoosh,Female,3 months,Domestic Short Hair,Victoria, B.C. 
+Cat,Bentley,Male,4 years,Domestic Short Hair,Victoria, B.C. 
+Cat,Davey,Male,3 months,Domestic Short Hair,Victoria, B.C. 
+Cat,Bear,Male,4 years,Domestic Medium Hair,Victoria, B.C. 
+Cat,Wonder,Female,3 years,Domestic Short Hair,Victoria, B.C. 
+Rabbit,Bert,Male,2 years,Rex,Vancouver, B.C. 
+Rabbit,Belle,Female,3 years,Dutch,Vancouver, B.C. 
+Rabbit,Cashmere,Female,3 years,Californian Dwarf,Vancouver, B.C. 
+Rabbit,Milly,Female,1 year,Californian Dwarf,Vancouver, B.C. 
+Rabbit,Luna,Female,1 year,Californian Dwarf,Vancouver, B.C. 
+Rabbit,Hudson,Female,7 months,Harlequin,Vancouver, B.C. 
+Rabbit,Honey Bun ,Male,4 months,Californian Dwarf,Surrey, B.C. 
+Rabbit,Spidey (bonded With Flash),Male,4 months,Californian,Surrey, B.C. 
+Rabbit,Supergirl,Female,1 year,Californian,Surrey, B.C. 
+Rabbit,Catwoman,Female,1 year,Californian Dwarf,Surrey, B.C. 
+Rabbit,Copper,Female,1 year,Dutch,Surrey, B.C. 
+Rabbit,Dorothy *in Foster,Female,2 years,American,Burnaby, B.C. 
+Rabbit,Sophia,Female,2 years,American,Burnaby, B.C. 
+Rabbit,Rocky,Female,1 year,Lionhead/Flemish Giant,Richmond, B.C. 
+Rabbit,Pixel ,Female,1 year,Lionhead/Flemish Giant,Richmond, B.C. 
+Rabbit,Dr. Patterson,Male,2 years,Lionhead,Richmond, B.C. 
+Rabbit,Megalo-Bun,Female,4 years,Florida White,West Vancouver, B.C.
+Rabbit,Bunzo,Male,1 year,American,West Vancouver, B.C.
+Rabbit,Sneezy,Female,3 months,Himalayan,West Vancouver, B.C.
+Rabbit,Dance Club Kayla,Female,3 months,Californian Dwarf,Maple Ridge, B.C. 
+Rabbit,Grumpy,Female,4 months,Californian Dwarf,Maple Ridge, B.C. 
+Rabbit,Happy,Male,4 months,Californian Dwarf,Maple Ridge, B.C. 
+Rabbit,Ash,Female,1 year,Netherland Dwarf,Maple Ridge, B.C. 
+Rabbit,Sage,Male,5 months,Dwarf,Victoria, B.C.
+Rabbit,Rosemary,Female,1 year,Dwarf,Victoria, B.C.
+Guinea pig,Pumpkin Spice,Female,1 month,NA,Abbotsford, B.C. 
+Guinea pig,Starsky,Male,7 months,NA,Abbotsford, B.C. 
+Guinea pig,Huey,Male,7 months,NA,Abbotsford, B.C. 
+Guinea pig,Marshmallow,Female,3 months,NA,Abbotsford, B.C. 
+Guinea pig,Atticus,Male,1 year,NA,Victoria, B.C.
+Guinea pig,Isabella ,Female,3 years,NA,Victoria, B.C.
+Guinea pig,Olivia ,Female,3 years,NA,Victoria, B.C.
+Guinea pig,Zoë ,Female,3 years,NA,Victoria, B.C.
+Guinea pig,Bernard,Male,2 years,NA,Victoria, B.C.
+Guinea pig,Alan,Male,2 months,NA,Campbell River, B.C.
+Guinea pig,Brad,Male,2 months,NA,Campbell River, B.C.
+Guinea pig,Ken,Male,2 years,NA,Campbell River, B.C.
+Guinea pig,Slash,Male,3 years,NA,Kamloops, B.C.
+Guinea pig,Axl,Male,3 years,NA,Kamloops, B.C.
